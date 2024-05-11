@@ -1,6 +1,7 @@
 ## Hey there! I'm Shivam 👋
 
 I am a Software Developer crafting code, one line at a time. 🚀 
+❤ contributing to open source.
 
 ### Technical Skills
 
