@@ -30,19 +30,19 @@
 <!-- Contribution in Open Source Programs Section -->
 <details>
   <summary><strong>Contribution in Open Source Programs</strong></summary>
-  <div align="left">
+  <!-- Badges Earned Section -->
+   <details>
+     <summary><strong>Badges Earned</strong></summary>
+     <div align="center">
+       <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" style="margin: 10px;">
+       <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" style="margin: 10px;">
+       <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" style="margin: 10px;">
+       <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" style="margin: 10px;">
+     </div>
+   </details>
+  <div align="center">
     <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/gssoc.png" alt="GirlScript Summer of Code" width="100">
   </div>
- <!-- Badges Earned Section -->
- <details>
-   <summary><strong>Badges Earned</strong></summary>
-   <div align="center">
-     <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" style="margin: 10px;">
-     <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" style="margin: 10px;">
-     <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" style="margin: 10px;">
-     <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" style="margin: 10px;">
-   </div>
- </details>
 </details>
 
 
