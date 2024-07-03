@@ -1,8 +1,7 @@
 ## Hey there! I'm Shivam 👋
 
 - I am a Software Developer crafting code, one line at a time. 🚀 
-- ❤ Connecting with tech communities and networking for roles in IT. 🌐
-- Open to new challenges in software engineering. 💻
+- Open to new challenges in software engineering 💻 ❤ Connecting with tech communities
 
 ### Technical Skills
 
