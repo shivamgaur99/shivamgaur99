@@ -26,24 +26,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgaur99&show_icons=true&theme=tokyonight&layout=compact)
 </div>
 
-<!-- Contribution in Open Source Programs Section -->
-<details>
-  <summary><strong>Contribution in Open Source Programs</strong></summary>
-  <!-- Badges Earned Section -->
-   <details>
-     <summary><strong>GSSoC(24) Badges 🪶</strong></summary>
-    <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
-    </div>
-  <div align="center"><a href="https://gssoc.girlscript.tech">
-    <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/gssoc.png" alt="GirlScript Summer of Code" width="100"></a>
-  </div>
-</details>
+
+  
+  
 
 ### GSSoC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
