@@ -26,28 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgaur99&show_icons=true&theme=tokyonight&layout=compact)
 </div>
 
-<!-- Contribution in Open Source Programs Section -->
-<details>
-  <summary><strong>Contribution in Open Source Programs</strong></summary>
-  <!-- Badges Earned Section -->
-   <details>
-     <summary><strong>GSSoC(24) Badges 🪶</strong></summary>
-     <div align="center"><img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-        <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Postman%20API%20Fundamentals%20Student%20Expert%20Badge.png" 
-          alt="GSSoC'24 Postman API Fundamentals Student Expert Badge" width="100" style="margin: 10px;">
-       <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" style="margin: 10px;">
-       <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" style="margin: 10px;">
-       <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" style="margin: 10px;">
-       <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" style="margin: 10px;">
-        <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Champion%20Badge.png" alt="GSSoC'24 Champion Badge Badge" width="100" style="margin: 10px;"></a>
-     </div>
-   </details>
-  <div align="center">
-    <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/gssoc.png" alt="GirlScript Summer of Code" width="100">
-  </div>
-</details>
-  
-  
+
 
 ### GSSoC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
