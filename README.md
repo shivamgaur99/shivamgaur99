@@ -48,6 +48,11 @@
 
 </div>
 
+<div align="center">
+ 
+#### If you'd like to get in touch or have any questions, feel free to contact me.
+
+</div>
 
 <!---
 
