@@ -2,8 +2,8 @@
 
 - I am a Software Developer crafting code, one line at a time. 🚀
 - Passionate about building scalable web applications and exploring new technologies.
-- Always eager to solve real-world problems through code.
 - Open to new challenges in software engineering 💻 ❤ Connecting with tech communities
+- Always eager to solve real-world problems through code.
 
 ### Technical Skills
 
