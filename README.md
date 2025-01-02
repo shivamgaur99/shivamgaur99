@@ -2,7 +2,7 @@
 
 ## Hey there! I'm Shivam 👋
 
-<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 - I am a Software Developer, Coding my dreams into reality 👨‍💻
   
@@ -68,7 +68,7 @@
 </div>
 
 <!---
-
+<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <div align="center">
  
 #### Show some ❤️ by starring some of the repositories!
