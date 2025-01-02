@@ -4,7 +4,7 @@
 
 <img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-- I am a Software Developer, Coding my dreams into reality 👨‍💻
+- I am a Java Full Stack Developer, Coding my dreams into reality. 👨‍💻
   
 - Passionate about building scalable web applications and exploring new technologies. 🚀
   
