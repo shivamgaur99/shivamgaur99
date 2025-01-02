@@ -1,9 +1,21 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 ## Hey there! I'm Shivam 👋
 
-- I am a Software Developer. 👨‍💻
+<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+
+- I am a Software Developer, Coding my dreams into reality 👨‍💻
+  
 - Passionate about building scalable web applications and exploring new technologies. 🚀
+  
 - Open to new challenges in software engineering 💻 ❤ Connecting with tech communities
+  
 - Always eager to solve real-world problems through code.
+
+- 📫 How to reach me **[`shivamgaur8527@gmail.com`](mailto:shivamgaur8527@gmail.com)**
+
+<br>
 
 ### Technical Skills
 
@@ -53,7 +65,7 @@
 <div align="center">
  
 #### If you'd like to get in touch or have any questions, feel free to contact me.
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>
 
 <!---
