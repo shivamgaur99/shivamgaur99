@@ -2,15 +2,17 @@
 
 ## Hey there! I'm Shivam 👋
 
-<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" width="350px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-- I am a Java Full Stack Developer, Coding my dreams into reality. 👨‍💻
+- 🚀 **Java Full Stack Developer** | Passionate about scalable applications & innovative solutions. 
   
-- Passionate about building scalable web applications and exploring new technologies. 🚀
+- 💡 Bridging backend robustness with frontend elegance! 
   
 - Open to new challenges in software engineering 💻 ❤ Connecting with tech communities
   
 - Always eager to solve real-world problems through code.
+
+- Currently improving my skills in **Microservices & Cloud Technologies**.
 
 - 📫 How to reach me **[`shivamgaur8527@gmail.com`](mailto:shivamgaur8527@gmail.com)**
 
@@ -28,6 +30,7 @@
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivamgaur99.shivamgaur99)
+
 </div>
 
 <div align="center">
@@ -41,7 +44,8 @@
 
 
 
-### GSSoC(24) Badges 🪶
+### GSSoC(24) Badges 🪶 
+🎖️ These badges recognize my contributions to GirlScript Summer of Code (GSSoC'24)!
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Postman%20API%20Fundamentals%20Student%20Expert%20Badge.png" width="100px" height="100px" />
   <img src="https://github.com/shivamgaur99/shivamgaur99/blob/main/badges/Explorer%20Badge.png" width="100px" height="100px" />
@@ -68,7 +72,7 @@
 </div>
 
 <!---
-<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <div align="center">
  
 #### Show some ❤️ by starring some of the repositories!
