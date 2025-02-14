@@ -2,7 +2,7 @@
 
 ## Hey there! I'm Shivam 👋
 
-<img align="right" width="350px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 - 🚀 **Java Full Stack Developer** | Passionate about scalable applications & innovative solutions. 
   
