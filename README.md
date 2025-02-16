@@ -2,7 +2,7 @@
 
 ## Hey there! I'm Shivam 👋
 
-<img align="right" width="250px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
 - 🚀 **Java Full Stack Developer** | Passionate about scalable applications & innovative solutions. 
@@ -74,7 +74,8 @@
 
 <!---
 <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+
+<img align="right" width="250px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 <div align="center">
  
 #### Show some ❤️ by starring some of the repositories!
