@@ -25,8 +25,8 @@
 
 ### GitHub Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=shivamgaur99&show_icons=true&theme=tokyonight" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgaur99&theme=tokyonight" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=shivamgaur99&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" align="right" >
+<img  src="https://nirzak-streak-stats.vercel.app/?user=shivamgaur99&theme=tokyonight&hide_border=true" width="48%" >
 <br>
 <div align="center">
 
@@ -40,7 +40,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Random Dev Quote" align="left"/>
 --->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgaur99&show_icons=true&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgaur99&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 
