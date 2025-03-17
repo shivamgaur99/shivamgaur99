@@ -2,21 +2,14 @@
 
 ## Hey there! I'm Shivam 👋
 
-<img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🚀 **Java Full Stack Developer** | Passionate about scalable applications & innovative solutions. 
-  
 - 💡 Bridging backend robustness with frontend elegance! 
-  
 - Open to new challenges in software engineering 💻 ❤ Connecting with tech communities
-  
-- Always eager to solve real-world problems through code.
-
 - Currently improving my skills in **Microservices & Cloud Technologies**.
-
 - 📫 How to reach me **[`shivamgaur8527@gmail.com`](mailto:shivamgaur8527@gmail.com)**
-
 
 ### Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20"> 
 
